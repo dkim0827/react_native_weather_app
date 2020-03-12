@@ -1,2 +1,3 @@
-# react_native_weather_app
+# React Native Weather App
+
 Weather application using react native
